@@ -5,7 +5,7 @@ date: '2022-03-15'
 
 ![alt text](/images/mourningSorrow.jpg "Mourning Sorrow")
 
-	# **Mourning Sorrow** 
+	# Mourning Sorrow 
 
 This mourning sorrow has finally eroded the sole
 
