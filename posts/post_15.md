@@ -3,7 +3,7 @@ title: 'Mourning Sorrow'
 date: '2022-03-15'
 ---
 
-![alt text](/images/mourningSorrow.jpg "Mourning Sorrow" 
+![alt text](/images/mourningSorrow.jpg "Mourning Sorrow") 
 
 This **mourning sorrow** has finally eroded the sole
 
