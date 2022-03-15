@@ -3,11 +3,9 @@ title: 'Mourning Sorrow'
 date: '2022-03-15'
 ---
 
-![alt text](/images/mourningSorrow.jpg "Mourning Sorrow")
+![alt text](/images/mourningSorrow.jpg "Mourning Sorrow" 
 
-	# Mourning Sorrow 
-
-This mourning sorrow has finally eroded the sole
+This **mourning sorrow** has finally eroded the sole
 
 But I must keep pushing onward through all this psychic wreckage
 
@@ -42,4 +40,4 @@ and I will get in that boat
 where everything lets go and I can mend
 where I formlessly float as one
 
-dev null
+*dev null*
